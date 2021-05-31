@@ -11,7 +11,7 @@ Monitoring emotional state of people and extending automated support to them has
 
 The proposed system is used to record a voice clip on hotword detected, preprocessed, feature extracted, classified and responded according the detected emotion. The responses can be created and altered according to the environment and use case. Once a certain number of live audio is captured, this could be used to train the model for further accuracy.
 
-This repository contains the following:
+## This repository contains the following:
 
 * Major_Project_MLP.ipynb - Python notebook to train model
 * Emotion_Voice_Detection_Model.h5 - pretrained model
