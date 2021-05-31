@@ -21,7 +21,6 @@ The proposed system is used to record a voice clip on hotword detected, preproce
 * emotion.py - predicts and returns emotion from audio file
 * X.train - features of training set required for StandardScaling
 
-
 ![](images/test.png?raw=true)
 
 The python notebook can be used to train an MLP model or a combination of MLP and lightgbm to achieve an accuracy of 68% and 70& respectively.
